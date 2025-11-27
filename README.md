@@ -8,7 +8,8 @@ This project uses data-driven intelligence to:
 * Build a Power BI dashboard for executives
 * Recommend high-ROI strategies for churn reduction
 
-You can find the INteractive PowerBI dashboard [here](Churn_Analysis_Dashboard.pbix) 
+You can find the Interactive PowerBI dashboard [here](Churn_Analysis_Dashboard.pbix) and the PDF of the Jupyter notebook used to carry out the EDA and predictive revenue analysis [here](TelcoChurnAnalysisPDF.pdf)
+
 
 # Data Structure Overview
 The dataset consists of 7,043 customers and 21 features, grouped into four key categories:
