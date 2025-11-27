@@ -8,6 +8,8 @@ This project uses data-driven intelligence to:
 * Build a Power BI dashboard for executives
 * Recommend high-ROI strategies for churn reduction
 
+You can find the INteractive PowerBI dashboard [here](customer_churn_analysis.pbix) 
+
 # Data Structure Overview
 The dataset consists of 7,043 customers and 21 features, grouped into four key categories:
 *Customer Demographics*
@@ -34,3 +36,4 @@ The analysis finds that Telecom Churn is not random — it is highly concentrate
 
 **Reducing churn by 30% unlocks around $1.2M in incremental revenue (from $11.8M → $13.0M)**
 The following sections will explore additional contributing factors and highlight key opportunity areas for improvement.
+![Churn_Analysis_Dashboard](https://github.com/user-attachments/assets/55dece32-69c2-4c3f-819b-952461ba8973)
