@@ -8,7 +8,7 @@ This project uses data-driven intelligence to:
 * Build a Power BI dashboard for executives
 * Recommend high-ROI strategies for churn reduction
 
-You can find the Interactive PowerBI dashboard [here](dashboard/Churn_Analysis_Dashboard.pbix) and the PDF of the Jupyter notebook used to carry out the EDA and predictive revenue analysis [here](TelcoChurnAnalysisPDF.pdf)
+You can find the Interactive PowerBI dashboard [here](dashboard/Churn_Analysis_Dashboard.pdf) and the PDF of the Jupyter notebook used to carry out the EDA and predictive revenue analysis [here](python/TelcoChurnAnalysisPDF.pdf)
 
 
 # Data Structure Overview
@@ -78,7 +78,7 @@ Customers who pay with electronic Check churn at around 40% Whereas those with O
   * Converts low-stickiness users into sticky subscribers
 
 # Included Files
-* [Jupyter Notebook PDF](TelcoChurnAnalysisPDF.pdf)
-* [Power BI Dashboard](Churn_Analysis_Dashboard.pbix)
-* [Data Sample](customers.csv)  
+* [Jupyter Notebook PDF](python/TelcoChurnAnalysisPDF.pdf)
+* [Power BI Dashboard](dashboard/Churn_Analysis_Dashboard.pdf)
+* [Data Sample](dataset/customers.csv)  
 
